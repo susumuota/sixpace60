@@ -1,6 +1,6 @@
 # Infinite Monkey Sixpace60
 
-<a href="blob/main/images/sixpace60_above.png"><img src="https://raw.githubusercontent.com/susumuota/sixpace60/refs/heads/main/images/sixpace60_above.png" alt="Infinite Monkey Sixpace60" width="800" /></a>
+<a href="https://github.com/susumuota/sixpace60/blob/main/images/sixpace60_above.png"><img src="https://raw.githubusercontent.com/susumuota/sixpace60/refs/heads/main/images/sixpace60_above.png" alt="Infinite Monkey Sixpace60" width="800" /></a>
 
 <a href="https://github.com/susumuota/sixpace60/blob/main/images/sixpace60_side.png"><img src="https://raw.githubusercontent.com/susumuota/sixpace60/refs/heads/main/images/sixpace60_side.png" alt="Infinite Monkey Sixpace60" width="400" /></a>
 
